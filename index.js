@@ -18,6 +18,14 @@ Do the following:
    HINT: no function required
 */
 
+const votingAge = 18;
+
+if (age >=18) {
+  console.log(true)
+} else {
+  console.log(false)
+}
+
 
 
 /*
@@ -30,6 +38,17 @@ Do the following:
 
    HINT: no function required
 */
+
+let num1 = 7;
+const num2 = 4;
+
+if (num1 > num2) {
+  num1++;
+  console.log(num1);
+} else { (num1 < num2) 
+  console.log(num2);
+}
+
 
 
 
